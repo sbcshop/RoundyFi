@@ -7,4 +7,3 @@
 2. Install Arduino_GFX_Library, download the library from below link,then go to include library->add zip library->add the zip verson of the Arduino_GFX_Library
    https://www.arduino.cc/reference/en/libraries/gfx-library-for-arduino/
 
-3. Install ArduinoJson library from "include library->manage library->write 'ArduinoJson' and search, then download latest version
