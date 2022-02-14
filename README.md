@@ -49,6 +49,9 @@ In this device we use Micropython and Circuit python(Adafruit Industries) both
  
   * **Memory card reader** -> (use micropython) for round LCD you need to drag and drop the round LCD firmware "firmware.uf2". for this first you need to press the boot button     then connect the USB, don,t release the button until you connect the USB to the laptop. then you see a new device named "RPI-RP2" drag this file "firmware.uf2" to this device   as shown in figure 
   <img src= "https://github.com/sbcshop/Roundy/blob/main/images/img13.png" /> 
+  Put SD Card in the RoundyPi and run the code, code read and write the values to the SD Card
+  <img src= "https://github.com/sbcshop/Roundy/blob/main/images/img8.png" /> 
+  <img src= "https://github.com/sbcshop/Roundy/blob/main/images/img9.png" /> 
 
 
 
