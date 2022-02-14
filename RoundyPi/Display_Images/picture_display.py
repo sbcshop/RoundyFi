@@ -24,7 +24,7 @@ import gc9a01
 #
 # prepare image with ImageMagick like:
 # convert input.jpg -resize 240x240 -type palette BMP3:output.bmp
-img_filenames = ( "/imgs/img0.bmp","/imgs/img1.bmp","/imgs/img2.bmp","/imgs/img3.bmp")
+img_filenames = ( "/images/img0.bmp","/images/img1.bmp","/images/img2.bmp","/images/img3.bmp")
 
 # time in seconds between images
 img_time = 2
