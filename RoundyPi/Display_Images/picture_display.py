@@ -20,8 +20,6 @@ import displayio
 import adafruit_imageload
 import gc9a01
 
-# A list of all the BMP images you want displayed, in order
-#
 # prepare image with ImageMagick like:
 # convert input.jpg -resize 240x240 -type palette BMP3:output.bmp
 img_filenames = ( "/images/img0.bmp","/images/img1.bmp","/images/img2.bmp","/images/img3.bmp")
@@ -57,11 +55,11 @@ display.show(main)
 
 i=0
 while True:
-    print(time.monotonic(),"hello")
+    #print(time.monotonic(),"hello")
     img_filename = img_filenames[i]
     img_bitmap = displayio.OnDiskBitmap(open(img_filename, "rb"))
     img_palette = displayio.ColorConverter()
-    #img_bitmap, img_palette = adafruit_imageload.load(img_filename)#########
+    #img_bitmap, img_palette = adafruit_imageload.load(img_filename)
     img_tilegrid = displayio.TileGrid(img_bitmap, pixel_shader=img_palette)
     main.append(img_tilegrid)
     time.sleep(img_time)
