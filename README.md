@@ -27,7 +27,11 @@ See there is a folder name RoundyFi, inside this folder, there are various appli
 See there is a folder name RoundyPi, inside this folder, there are various applications:-
 In this device we use Micropython and Circuit python(Adafruit Industries) both 
 
-  * **Connect Air Monitoring Sensor** -> (Use Micropython) We add the four GP pins for Input/Output devices(GP0,GP1,GP2,GP3).For example, We connect Air monitoring breakout,         save this file "pmsa003.py" in the pico, this is the library of the air monitor sensors. and for round LCD you need to drag and drop the round LCD firmware "firmware.uf2".       for this first you need to press the boot button the connect the usb, don,t release the button until you connect the usb to the laptop.
+  * **Connect Air Monitoring Sensor** -> (Use Micropython) We add the four GP pins for Input/Output devices(GP0,GP1,GP2,GP3).For example, We connect Air monitoring breakout,         save this file "pmsa003.py" in the pico, this is the library of the air monitor sensors. and for round LCD you need to drag and drop the round LCD firmware "firmware.uf2".       for this first you need to press the boot button the connect the USB, don,t release the button until you connect the USB to the laptop.then you see new device name"RPI-RP2"
+    drag this file "firmware.uf2" to this device
+    
+  <img src= "https://github.com/sbcshop/Roundy/blob/main/images/img13.png" />
+
   * **Display Images** -> 
   * **Memory card reader** -> 
 
