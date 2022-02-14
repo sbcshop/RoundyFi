@@ -21,7 +21,8 @@ See there is a folder name RoundyFi, inside this folder, there are various appli
     <img src= "https://github.com/sbcshop/Roundy/blob/main/images/img5.png" />
 
 ## RoundyPi
-### RoundyPi is a round LCD display based on RP2040 along with compact and stylish 1.28-inch display module of 240×240 resolution, 65K RGB colors, clear and colorful displaying effect, expand its engagement with your project. RoundyPi comes with an embedded GC9A01 Driver and SPI Interface that minimize the required IO pins. 
+### RoundyPi is a round LCD display based on RP2040 along with a compact and stylish 1.28-inch display module of 240×240 resolution, 65K RGB colors, clear and colorful displaying effect, expand its engagement with your project. RoundyPi comes with an embedded GC9A01 Driver and SPI Interface that minimize the required IO pins. 
+<img src= "https://github.com/sbcshop/Roundy/blob/main/images/img7.png" />
 
 
 
