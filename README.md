@@ -8,7 +8,8 @@
 <img src= "https://github.com/sbcshop/Roundy/blob/main/images/img3.png" />
 
 See there is a folder name RoundyFi, inside this folder, there are various applications:-
-  * Display Weather -> Display the current weather via "OpenWeatherMap" website
+  * Display Weather -> Display the current weather via "OpenWeatherMap" website,first of all you need to make account in openweathermap
+    "https://openweathermap.org/api"
     <img src= "https://github.com/sbcshop/Roundy/blob/main/images/img2.png" />
 
   * Make Server     -> Make server using RoundyFi
