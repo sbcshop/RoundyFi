@@ -1,5 +1,5 @@
 # Roundy
-<img src= "https://github.com/sbcshop/Roundy/blob/main/images/img1.jpg" />
+<img src= "https://github.com/sbcshop/Roundy/blob/main/images/img1.png" />
 <img src= "https://github.com/sbcshop/Roundy/blob/main/images/img.png" />
 
 # RoundyFi
