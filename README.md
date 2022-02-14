@@ -24,6 +24,11 @@ See there is a folder name RoundyFi, inside this folder, there are various appli
 ### RoundyPi is a round LCD display based on RP2040 along with a compact and stylish 1.28-inch display module of 240×240 resolution, 65K RGB colors, clear and colorful displaying effect, expand its engagement with your project. RoundyPi comes with an embedded GC9A01 Driver and SPI Interface that minimize the required IO pins. 
 <img src= "https://github.com/sbcshop/Roundy/blob/main/images/img7.png" />
 
+See there is a folder name RoundyPi, inside this folder, there are various applications:-
+  * **Connect Air Monitoring Sensor** -> 
+  * **Display Images** -> 
+  * **Memory card reader** -> 
+
 
 
 
