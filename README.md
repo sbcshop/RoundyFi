@@ -41,9 +41,11 @@ In this device we use Micropython and Circuit python(Adafruit Industries) both
  <img src= "https://github.com/sbcshop/Roundy/blob/main/images/img14.JPG" /> 
  You need to copy this **adafruit_imageload** , **images**  folder and  **gc9a01.py**  file to the  **CIRCUITPY**  device, as shown in figure
  <img src= "https://github.com/sbcshop/Roundy/blob/main/images/img12.png" /> 
- You can also display your custom images, for this you need to go "images" folder as shown in below.and save the BMP images of 240x240 
+ You can also display your custom images, for this you need to go "images" folder as shown in below,and save the BMP images of 240x240 
  <img src= "https://github.com/sbcshop/Roundy/blob/main/images/img16.png" /> 
  <img src= "https://github.com/sbcshop/Roundy/blob/main/images/img17.png" /> 
+ You can online convert the any to BMP image (the size must be 250x250), i a websie below(there are various website)
+ https://image.online-convert.com/convert-to-bmp
  
   
   
