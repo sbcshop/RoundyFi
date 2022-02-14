@@ -46,12 +46,15 @@ In this device we use Micropython and Circuit python(Adafruit Industries) both
     <img src= "https://github.com/sbcshop/Roundy/blob/main/images/img17.png" /> 
     You can online convert the any to BMP image (the size must be 250x250), i a websie below(there are various website)
     https://image.online-convert.com/convert-to-bmp
+    
+    Finally you need to run this file **picture_display.py**
  
   * **Memory card reader** -> (use micropython) for round LCD you need to drag and drop the round LCD firmware "firmware.uf2". for this first you need to press the boot button     then connect the USB, don,t release the button until you connect the USB to the laptop. then you see a new device named "RPI-RP2" drag this file "firmware.uf2" to this device   as shown in figure 
   <img src= "https://github.com/sbcshop/Roundy/blob/main/images/img13.png" /> 
-  Put SD Card in the RoundyPi and run the code, code read and write the values to the SD Card
+  Save the library of SD Card in the pico(file name "sdcard.py")
+  Put SD Card in the RoundyPi and run the code(main.py), code read and write the values to the SD Card
   <img src= "https://github.com/sbcshop/Roundy/blob/main/images/img8.png" /> 
-  <img src= "https://github.com/sbcshop/Roundy/blob/main/images/img9.png" /> 
+  <img src= "https://github.com/sbcshop/Roundy/blob/main/images/img10.png" /> 
 
 
 
