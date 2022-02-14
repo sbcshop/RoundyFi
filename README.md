@@ -36,8 +36,10 @@ In this device we use Micropython and Circuit python(Adafruit Industries) both
   <img src= "https://github.com/sbcshop/Roundy/blob/main/images/img13.png" />  
   When you properly insert the circuitpython then you see a new device that looks like the below image:-
   <img src= "https://github.com/sbcshop/Roundy/blob/main/images/img11.png" />  
- Now open the folder Display_Images, which is inside RoundyPi folder,inside Display_Images folder you see these folder:-
- <img src= "https://github.com/sbcshop/Roundy/blob/main/images/img14.jpg" /> 
+ Now open the folder Display_Images, which is inside RoundyPi folder, inside the Display_Images folder you see this folder:-
+ <img src= "https://github.com/sbcshop/Roundy/blob/main/images/img14.JPG" /> 
+ You need to copy this "**adafruit_imageload**","**images**" folder and "**gc9a01.py**" file to the "**CIRCUITPY**" device, as shown in figure
+ <img src= "https://github.com/sbcshop/Roundy/blob/main/images/img12.png" /> 
  
   
   
