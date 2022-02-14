@@ -11,13 +11,14 @@ See there is a folder name RoundyFi, inside this folder, there are various appli
   * **Display Weather** -> Display the current weather via the "OpenWeatherMap" website, first of all, you need to make an account in OpenWeatherMap
     https://openweathermap.org/api and copy the API key and paste in the code, 
     Download the Arduino IDE https://www.arduino.cc/en/software
-    There are also various libraries you need to install,we mention the libraries in text file ,which is inside the folder
+    There are also various libraries you need to install, we mention the libraries in a text file , which is inside the folder
     <img src= "https://github.com/sbcshop/Roundy/blob/main/images/img2.png" />
   
-  * Make Server     -> Make server using RoundyFi
+  * **Make Server**     -> Make server using RoundyFi.There are also various libraries you need to install, we mention the libraries in a text file , which is inside the folder.
+    From this we can communicate between server and client. for example we make mobile phone as client and RoundyPi as server
     <img src= "https://github.com/sbcshop/Roundy/blob/main/images/img4.png" />
 
-  * Wifi Clock      -> Make smart clock using wifi, it displays current time and week, using internet 
+  * **Wifi Clock**      -> Make smart clock using wifi, it displays current time and week, using internet 
     <img src= "https://github.com/sbcshop/Roundy/blob/main/images/img5.png" />
 
 
