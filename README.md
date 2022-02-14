@@ -8,9 +8,9 @@
 <img src= "https://github.com/sbcshop/Roundy/blob/main/images/img3.png" />
 
 See there is a folder name RoundyFi, inside this folder, there are various applications we make:-
-  * Display Weather
-  * Make Server
-  * Wifi Clock
+  * Display Weather  -> Display the current weather via "openweathermap" website
+  * Make Server      -> Make server using RoundyFi
+  * Wifi Clock       -> Make smart clock using wifi, it display current time and week, using internet 
 
 
 
