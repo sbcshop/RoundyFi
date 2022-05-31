@@ -4,7 +4,7 @@
 
    After that go to tools-> board ->board manager->write esp8266->install the board
    
-2. Now choose board from tool -> board -> ESP8266 boards - > NodeMCU 1.0 ( ESP-12E Module), then upload the code
+2. Now choose board from tool -> board -> ESP8266 boards - > NodeMCU 1.0 ( ESP-12E Module),then compile and run the "wifi_clock.ino" example.
 
 2. Install Arduino_GFX_Library, download the library from the below link, then go to include library->add zip library-> add the zip version of the Arduino_GFX_Library
    https://www.arduino.cc/reference/en/libraries/gfx-library-for-arduino/
