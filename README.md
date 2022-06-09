@@ -15,7 +15,7 @@
    <img src= "https://github.com/sbcshop/RoundyFi/blob/main/images/img6.JPG" />
 
 3. Now install Esp8266 board, for this go to file -> preferences
-  <img src= "https://github.com/sbcshop/RoundyFi/blob/main/images/img7.png" />
+   <img src= "https://github.com/sbcshop/RoundyFi/blob/main/images/img7.png" />
   
    * Paste two urls,in "additional board manager urls" 
      ```http://arduino.esp8266.com/stable/package_esp8266com_index.json```
