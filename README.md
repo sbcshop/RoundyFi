@@ -37,6 +37,12 @@
  4. Now install all the necessary libraries, go to sketch -> include library -> manage libraries
      <img src= "https://github.com/sbcshop/RoundyFi/blob/main/images/img12.png" />
      
+ 5. Install all libraries which is mention below
+    <img src= "https://github.com/sbcshop/RoundyFi/blob/main/images/img13.JPG" />
+    <img src= "https://github.com/sbcshop/RoundyFi/blob/main/images/img14.JPG" />
+    <img src= "https://github.com/sbcshop/RoundyFi/blob/main/images/img15.JPG" />
+  
+     
 See there is a folder name RoundyFi, inside this folder, there are various applications:-
   * **Display Weather** -> Display the current weather via the "OpenWeatherMap" website, first of all, you need to make an account in OpenWeatherMap
     https://openweathermap.org/api and copy the API key and paste in the code, 
