@@ -34,7 +34,7 @@
    * Lets, check boards are install or not, go to tools -> boards
      <img src= "https://github.com/sbcshop/RoundyFi/blob/main/images/img11.png" />
   
- 4. Now install all the necessary libraries, go to sketch -> include library -> manage libraries
+ 4. Now go to sketch -> include library -> manage libraries
      <img src= "https://github.com/sbcshop/RoundyFi/blob/main/images/img12.png" />
      
  5. Install all libraries which is mention below
