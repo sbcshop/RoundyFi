@@ -51,7 +51,6 @@
 See there is a folder name RoundyFi, inside this folder, there are various applications(Example codes):-
   * **Display Weather** -> Display the current weather via the "OpenWeatherMap" website, first of all, you need to make an account in OpenWeatherMap
     https://openweathermap.org/api and copy the API key and paste in the code, 
-    Download the Arduino IDE https://www.arduino.cc/en/software
     <img src= "https://github.com/sbcshop/RoundyFi/blob/main/images/img2.png" />
   
   * **Make Server**  -> Make server using RoundyFi. 
