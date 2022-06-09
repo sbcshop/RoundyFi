@@ -41,6 +41,11 @@
     <img src= "https://github.com/sbcshop/RoundyFi/blob/main/images/img13.JPG" />
     <img src= "https://github.com/sbcshop/RoundyFi/blob/main/images/img14.JPG" />
     <img src= "https://github.com/sbcshop/RoundyFi/blob/main/images/img15.JPG" />
+    
+ 6. Choose Port and ESP8266 board from board manager
+    <img src= "https://github.com/sbcshop/RoundyFi/blob/main/images/img16.png" />
+    <img src= "https://github.com/sbcshop/RoundyFi/blob/main/images/img17.png" />
+  
   
      
 See there is a folder name RoundyFi, inside this folder, there are various applications:-
