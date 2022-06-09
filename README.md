@@ -29,7 +29,7 @@
      <img src= "https://github.com/sbcshop/RoundyFi/blob/main/images/img9.png" />
      
    * Write ESP8266 in search bar
-    <img src= "https://github.com/sbcshop/RoundyFi/blob/main/images/img10.png" />
+     <img src= "https://github.com/sbcshop/RoundyFi/blob/main/images/img10.png" />
   
 See there is a folder name RoundyFi, inside this folder, there are various applications:-
   * **Display Weather** -> Display the current weather via the "OpenWeatherMap" website, first of all, you need to make an account in OpenWeatherMap
