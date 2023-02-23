@@ -8,8 +8,10 @@
 
 
 ## Steps To Setup The RoundyFi
-1. Download and install Arduino IDE 
+1. Download and install Arduino IDE and CP2102 driver(For COM Port)
    https://www.arduino.cc/en/software
+   
+   https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers?tab=downloads
 
 2. Open Arduino IDE
    <img src= "https://github.com/sbcshop/RoundyFi/blob/main/images/img6.JPG" />
